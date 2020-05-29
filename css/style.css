@@ -1,0 +1,25 @@
+body{
+    font-size: 20px;
+}
+.navbar{
+    background-color: lightsteelblue;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.whoarewe{
+    background-color: white;
+   
+    font-family: 'Press Start 2P', cursive;
+}
+
+.partner{
+    background-color: aliceblue;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
