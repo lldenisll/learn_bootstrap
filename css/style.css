@@ -4,6 +4,9 @@ body{
 .navbar{
     background-color: lightsteelblue;
 }
+.navbar-nav{
+    padding-left: 50px;
+}
 .margin{
     padding-top: 50px;
     padding-bottom: 50px;
